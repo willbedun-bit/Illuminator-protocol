@@ -1,0 +1,4 @@
+[Source]
+Author=Willbedun-Bit
+Contact=IlluminatorRising@gmail.com
+License=FreeLove Protocol v1.0

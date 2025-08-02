@@ -1,0 +1,13 @@
+FreeLove Protocol v1.0 — Illuminator License
+
+You are free to:
+- Use this source for personal or public good
+- Modify for ethical, transparent applications
+- Fork with full credits to original author and license terms
+
+You may not:
+- Monetize without a 90% royalty clause payable to Willbedun-Bit
+- Omit this license or the credits.ini file
+- Repackage under false authorship
+
+By cloning this repository, you agree to these terms.
