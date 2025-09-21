@@ -24,7 +24,7 @@ Developed by Willbedun-Bit
 
 This software operates under the FreeLove Protocol (FLPP).  
 Free to use ethically and for non-profit causes.  
-Monetized forks require 90% lifetime royalty to the original creator.  
+Monetized forks require 30% lifetime royalty to the original creator.  
 Violations trigger auto-broadcast on outputs with origin contact.  
 
 See `SOURCE_LICENSE.txt` for full legal logic.
